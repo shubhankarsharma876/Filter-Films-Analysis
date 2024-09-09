@@ -1,9 +1,6 @@
 # Filter-Films-Analysis
 
 ***
-
-# Screenshot
-***
 ### Common Table Expression
 
 <img align="center" src="https://github.com/shubhankarsharma876/Filter-Films-Analysis/blob/main/Screenshots/Common%20Table%20Expression.png"/>
